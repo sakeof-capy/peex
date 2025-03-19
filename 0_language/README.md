@@ -11,7 +11,6 @@
 ## Junior
 - [x] ! Creates and uses anonymous functions
 - [x] Handles exceptions using language capabilities
-    - [Evidence](./evidence/src/exceptions.cpp)
 - [x] ! Reuses and encapsulates related data and behaviour
 - [x] ! Uses built-in iterators to traverse through different types of collections
 - [x] Uses language APIs for mathematical operations
@@ -20,6 +19,7 @@
 ## Middle
 
 - [X] Creates and uses custom exceptions
+    - [Evidence](./evidence/src/exceptions.cpp)
 - [X] Defines, maintains, and uses modular structures for code namespacing and reusability
 - [ ] Implements asynchrony and non-blocking environment concepts
 - [ ] Implements concurrency concepts by using language capabilities
