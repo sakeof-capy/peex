@@ -9,3 +9,14 @@ target_include_directories(0_filesystem
         >
         $<INSTALL_INTERFACE:include/>
 )
+
+add_executable(0_date_n_time src/data_n_time.cpp include/utilities.hpp)
+
+target_include_directories(0_date_n_time
+    PUBLIC
+        $<BUILD_INTERFACE:
+            ${CMAKE_CURRENT_SOURCE_DIR}/include
+            ${CMAKE_CURRENT_SOURCE_DIR}/include/${LIBRARY_NAME}
+        >
+        $<INSTALL_INTERFACE:include/>
+)

@@ -25,7 +25,8 @@
 - [X] Manages files with language filesystem capabilities
     - [Evidence](./evidence/src/filesystem.cpp)
 - [X] Manipulates data using advanced language capabilities
-- [ ] Manipulates date and time with language APIs
+- [X] Manipulates date and time with language APIs
+    - [Evidence](./evidence/src/data_n_time.cpp)
 - [X] Uses language capabilities to ensure type safety and data integrity
 - [ ] Validates, finds, and replaces string data with regular expressions
 
