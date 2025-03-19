@@ -11,9 +11,11 @@
 ## Junior
 - [x] ! Creates and uses anonymous functions
 - [x] Handles exceptions using language capabilities
+    - [Evidence](./evidence/src/exceptions.cpp)
 - [x] ! Reuses and encapsulates related data and behaviour
 - [x] ! Uses built-in iterators to traverse through different types of collections
 - [x] Uses language APIs for mathematical operations
+    - [Evidence](./evidence/src/mathematical_operations.cpp)
 
 ## Middle
 
