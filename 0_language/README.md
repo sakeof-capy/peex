@@ -28,6 +28,7 @@
 - [X] Manipulates date and time with language APIs
     - [Evidence](./evidence/src/data_n_time.cpp)
 - [X] Uses language capabilities to ensure type safety and data integrity
-- [ ] Validates, finds, and replaces string data with regular expressions
+- [X] Validates, finds, and replaces string data with regular expressions
+    - [Evidence](./evidence/src/regular_expressions.cpp)
 
 
