@@ -1,0 +1,6 @@
+[submodule "1_libraries/evidence/evograph"]
+	path = 1_libraries/evidence/evograph
+	url = https://github.com/sakeof-capy/evograph.git
+[submodule "1_libraries/evidence/doxygen_example"]
+	path = 1_libraries/evidence/doxygen_example
+	url = https://github.com/sakeof-capy/doxygen_example.git

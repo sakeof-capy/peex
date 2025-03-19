@@ -6,9 +6,11 @@
 - [X] Validates and searches data with regular expressions through libraries
 
 ## Middle
-- [ ] Generates documentation through libraries
+- [X] Generates documentation through libraries
+    - [Evidence](./evidence/doxygen_example/0_root/bin/main.cpp)
 - [ ] ! Handles structured data with libraries
-- [ ] ! Handles user interface events with libraries
+- [X] ! Handles user interface events with libraries
+    - [Evidence](./evidence/evograph/2_gui/src/widgets/items/Button.cpp)
 - [ ] Integrates web-based content with libraries
 - [ ] Interacts with system calls through libraries
 - [ ] Manages data compression and archiving
