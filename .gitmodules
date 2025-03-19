@@ -4,3 +4,12 @@
 [submodule "1_libraries/evidence/doxygen_example"]
 	path = 1_libraries/evidence/doxygen_example
 	url = https://github.com/sakeof-capy/doxygen_example.git
+[submodule "1_libraries/dependencies/nlomann/json"]
+	path = 1_libraries/dependencies/nlomann/json
+	url = https://github.com/nlohmann/json.git
+[submodule "1_libraries/evidence/dependencies/pugixml"]
+	path = 1_libraries/evidence/dependencies/pugixml
+	url = https://github.com/zeux/pugixml.git
+[submodule "1_libraries/evidence/protobuf_n_mq"]
+	path = 1_libraries/evidence/protobuf_n_mq
+	url = https://github.com/sakeof-capy/lab4_protobuf_n_mq.git
