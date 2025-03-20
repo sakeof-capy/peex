@@ -13,3 +13,6 @@
 [submodule "1_libraries/evidence/protobuf_n_mq"]
 	path = 1_libraries/evidence/protobuf_n_mq
 	url = https://github.com/sakeof-capy/lab4_protobuf_n_mq.git
+[submodule "1_libraries/evidence/cpp_web_example"]
+	path = 1_libraries/evidence/cpp_web_example
+	url = https://github.com/sakeof-capy/cpp_web_example.git

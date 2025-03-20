@@ -14,9 +14,11 @@
     - [Protobuf](./evidence/protobuf_n_mq/1_tcp_communication/proto/message.proto)
 - [X] ! Handles user interface events with libraries
     - [Evidence](./evidence/evograph/2_gui/src/widgets/items/Button.cpp)
-- [ ] Integrates web-based content with libraries
+- [X] Integrates web-based content with libraries
+    - [Evidence](./evidence/cpp_web_example/0_root/bin/main.cpp)
 - [ ] Interacts with system calls through libraries
 - [ ] Manages data compression and archiving
 - [ ] Manipulates date and time with libraries
 - [ ] Simplifies database management using libraries
-- [ ] Uses HTTP client libraries for API communication
+- [X] Uses HTTP client libraries for API communication
+    - [Evidence](./evidence/cpp_web_example/0_root/bin/client.cpp)
