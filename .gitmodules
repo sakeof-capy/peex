@@ -19,3 +19,6 @@
 [submodule "1_libraries/evidence/orm_example"]
 	path = 1_libraries/evidence/orm_example
 	url = https://github.com/sakeof-capy/orm_example_rs.git
+[submodule "1_libraries/evidence/dependencies/HowardHinnant/date"]
+	path = 1_libraries/evidence/dependencies/HowardHinnant/date
+	url = https://github.com/HowardHinnant/date.git
