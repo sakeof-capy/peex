@@ -17,8 +17,10 @@
 - [X] Integrates web-based content with libraries
     - [Evidence](./evidence/cpp_web_example/0_root/bin/main.cpp)
 - [ ] Interacts with system calls through libraries
-- [ ] Manages data compression and archiving
-- [ ] Manipulates date and time with libraries
+- [X] Manages data compression and archiving
+    - [Evidence](./evidence/zlib_example/0_root/bin/zlib_example.cpp)
+- [X] Manipulates date and time with libraries
+    - [Evidence](./evidence/date_n_time_libs/bin/main.cpp)
 - [X] Simplifies database management using libraries
     - [Evidence](./evidence/orm_example/src/main.rs)
 - [X] Uses HTTP client libraries for API communication
