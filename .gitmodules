@@ -16,3 +16,6 @@
 [submodule "1_libraries/evidence/cpp_web_example"]
 	path = 1_libraries/evidence/cpp_web_example
 	url = https://github.com/sakeof-capy/cpp_web_example.git
+[submodule "1_libraries/evidence/orm_example"]
+	path = 1_libraries/evidence/orm_example
+	url = https://github.com/sakeof-capy/orm_example_rs.git

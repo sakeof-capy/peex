@@ -11,7 +11,7 @@
 - [X] ! Handles structured data with libraries
     - [Evidence JSON](./evidence/structured_data/src/json.cpp)
     - [Evidence XML](./evidence/structured_data/src/xml.cpp)
-    - [Protobuf](./evidence/protobuf_n_mq/1_tcp_communication/proto/message.proto)
+    - [Evidence Protobuf](./evidence/protobuf_n_mq/1_tcp_communication/proto/message.proto)
 - [X] ! Handles user interface events with libraries
     - [Evidence](./evidence/evograph/2_gui/src/widgets/items/Button.cpp)
 - [X] Integrates web-based content with libraries
@@ -19,6 +19,7 @@
 - [ ] Interacts with system calls through libraries
 - [ ] Manages data compression and archiving
 - [ ] Manipulates date and time with libraries
-- [ ] Simplifies database management using libraries
+- [X] Simplifies database management using libraries
+    - [Evidence](./evidence/orm_example/src/main.rs)
 - [X] Uses HTTP client libraries for API communication
     - [Evidence](./evidence/cpp_web_example/0_root/bin/client.cpp)
