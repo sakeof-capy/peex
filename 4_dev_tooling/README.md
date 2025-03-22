@@ -20,4 +20,5 @@
 - [X] ! Maintains code quality with static code analysers
     - [Evidence](./STATIC_ANALYSIS.md)
 - [X] Manages and maintains a state of application dependencies
-- [ ] Uses tools for application profiling
+- [X] Uses tools for application profiling
+    - [Evidence](./PROFILING.md)
