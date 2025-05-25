@@ -31,3 +31,6 @@
 [submodule "1_libraries/evidence/tguts"]
 	path = 1_libraries/evidence/tguts
 	url = git@github.com:sakeof-capy/tguts.git
+[submodule "5_data_storages/evidence/distributed_systems_labs"]
+	path = 5_data_storages/evidence/distributed_systems_labs
+	url = git@github.com:sakeof-capy/distributed_systems_labs.git
