@@ -28,3 +28,6 @@
 [submodule "1_libraries/evidence/design-patterns-project-basket"]
 	path = 1_libraries/evidence/design-patterns-project-basket
 	url = git@github.com:The-CapyBar-Team/design-patterns-project-basket.git
+[submodule "1_libraries/evidence/tguts"]
+	path = 1_libraries/evidence/tguts
+	url = git@github.com:sakeof-capy/tguts.git
