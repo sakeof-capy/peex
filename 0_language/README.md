@@ -2,7 +2,7 @@
 
 ## Trainee
 
-- [x] ! Applies and maintains control flow structures 
+- [x] ! Applies and maintains control flow structures
 - [x] ! Manages collections of data using language
 - [x] ! Stores, reuses, and manipulates data
 - [x] ! Stores, reuses, and operates on basic data types
@@ -10,19 +10,28 @@
 
 ## Junior
 - [x] ! Creates and uses anonymous functions
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [x] Handles exceptions using language capabilities
 - [x] ! Reuses and encapsulates related data and behaviour
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [x] ! Uses built-in iterators to traverse through different types of collections
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [x] Uses language APIs for mathematical operations
     - [Evidence](./evidence/src/mathematical_operations.cpp)
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 
 ## Middle
 
 - [X] Creates and uses custom exceptions
     - [Evidence](./evidence/src/exceptions.cpp)
 - [X] Defines, maintains, and uses modular structures for code namespacing and reusability
-- [ ] Implements asynchrony and non-blocking environment concepts
-- [ ] Implements concurrency concepts by using language capabilities
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
+- [X] Implements asynchrony and non-blocking environment concepts
+    - [Evidence](../1_libraries/evidence/design-patterns-project-basket/basket_balancer/src/requests.rs#L68)
+    - Rust Evidence - VPP
+- [X] Implements concurrency concepts by using language capabilities
+    - [Evidence](../1_libraries/evidence/design-patterns-project-basket/basket_balancer/src/main.rs#L104)
+    - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Implements, maintains, and uses language abstraction concepts
 - [X] Manages files with language filesystem capabilities
     - [Evidence](./evidence/src/filesystem.cpp)

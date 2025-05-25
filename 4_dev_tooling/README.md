@@ -15,7 +15,7 @@
 - [X] Configures a build process to compile ready-to-use applications from a source code
 - [X] Containerise application to simplify distribution
     - [Evidence](../1_libraries/evidence/orm_example/Dockerfile)
-- [ ] Distributes an application to trusted tester devices
+- [X] Distributes an application to trusted tester devices
 - [X] ! Distributes source code using version control tools
 - [X] ! Maintains code quality with static code analysers
     - [Evidence](./STATIC_ANALYSIS.md)

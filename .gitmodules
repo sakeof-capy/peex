@@ -25,3 +25,6 @@
 [submodule "1_libraries/evidence/zlib_example"]
 	path = 1_libraries/evidence/zlib_example
 	url = https://github.com/sakeof-capy/zlib_example.git
+[submodule "1_libraries/evidence/design-patterns-project-basket"]
+	path = 1_libraries/evidence/design-patterns-project-basket
+	url = git@github.com:The-CapyBar-Team/design-patterns-project-basket.git
