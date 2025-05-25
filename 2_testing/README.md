@@ -16,6 +16,7 @@ Dummy ⊆ Stub ⊆ Fake ⊆ Mock
 ## Middle Applied Engineer
 
 - [X] Applies community-recommended practices and methodologies for automated testing
+    - [Info](./infos/AUTOMATED_TESTING_METHODOLOGIES.md)
 - [X] Isolates a system under test from external dependencies
     - [Info](./infos/ISOLATION.md)
     - [Rust Evidence](../../peex_rust_evidence/evidence/2_TESTING.md)
