@@ -33,13 +33,17 @@
     - [Evidence](../1_libraries/evidence/design-patterns-project-basket/basket_balancer/src/main.rs#L104)
     - [Rust Evidence](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Implements, maintains, and uses language abstraction concepts
+    - [Evidence (Traits)](../1_libraries/evidence/design-patterns-project-basket/basket_balancer/src/requests.rs#L16)
+    - [Evidence (Function Pointers)](../1_libraries/evidence/design-patterns-project-basket/basket_communication/src/rabbit/listener.rs#L70)
+    - [Rust Evidence (Traits)](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Manages files with language filesystem capabilities
     - [Evidence](./evidence/src/filesystem.cpp)
+    - [Rust Evidence (Traits)](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Manipulates data using advanced language capabilities
+    - [Rust Evidence (Enums)](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Manipulates date and time with language APIs
     - [Evidence](./evidence/src/data_n_time.cpp)
+    - [Rust Evidence (DAQ Ts)](../../peex_rust_evidence/evidence/0_LANGUAGE.md)
 - [X] Uses language capabilities to ensure type safety and data integrity
 - [X] Validates, finds, and replaces string data with regular expressions
     - [Evidence](./evidence/src/regular_expressions.cpp)
-
-
